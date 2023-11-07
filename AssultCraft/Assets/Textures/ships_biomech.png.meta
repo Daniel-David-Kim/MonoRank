@@ -1,0 +1,1471 @@
+fileFormatVersion: 2
+guid: a90b16e5b244e8e4abb90c64b3a9bc5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1175416782674792310
+    second: ships_biomech_0
+  - first:
+      213: 1028553661590128531
+    second: ships_biomech_1
+  - first:
+      213: 887692694561813034
+    second: ships_biomech_2
+  - first:
+      213: 8439602842622927309
+    second: ships_biomech_3
+  - first:
+      213: -6132976114110275166
+    second: ships_biomech_4
+  - first:
+      213: 7364476268356444510
+    second: ships_biomech_5
+  - first:
+      213: -8964526247933248518
+    second: ships_biomech_6
+  - first:
+      213: 6027319659320202402
+    second: ships_biomech_7
+  - first:
+      213: -4261068638001087019
+    second: ships_biomech_8
+  - first:
+      213: 8619579953871709399
+    second: ships_biomech_9
+  - first:
+      213: 3653919125850177435
+    second: ships_biomech_10
+  - first:
+      213: 1669824334281511297
+    second: ships_biomech_11
+  - first:
+      213: -6118860968982000071
+    second: ships_biomech_12
+  - first:
+      213: 3361983212427452470
+    second: ships_biomech_13
+  - first:
+      213: -9023115128709021517
+    second: ships_biomech_14
+  - first:
+      213: -7238722817485242676
+    second: ships_biomech_15
+  - first:
+      213: 2845941664051057152
+    second: ships_biomech_16
+  - first:
+      213: 9132100978963150043
+    second: ships_biomech_17
+  - first:
+      213: 2359060810481053774
+    second: ships_biomech_18
+  - first:
+      213: 7039148936549492094
+    second: ships_biomech_19
+  - first:
+      213: 4354544431385040852
+    second: ships_biomech_20
+  - first:
+      213: 7545400307451996534
+    second: ships_biomech_21
+  - first:
+      213: -3989203154812537132
+    second: ships_biomech_22
+  - first:
+      213: 7464529781487057015
+    second: ships_biomech_23
+  - first:
+      213: 8595577851628301315
+    second: ships_biomech_24
+  - first:
+      213: 5109288535625604005
+    second: ships_biomech_25
+  - first:
+      213: -2816075971452544078
+    second: ships_biomech_26
+  - first:
+      213: -9181414446465806312
+    second: ships_biomech_27
+  - first:
+      213: 935839295198528538
+    second: ships_biomech_28
+  - first:
+      213: -3946903103619884660
+    second: ships_biomech_29
+  - first:
+      213: 798792567705344085
+    second: ships_biomech_30
+  - first:
+      213: -5579709267308240056
+    second: ships_biomech_31
+  - first:
+      213: -5791599534735043729
+    second: ships_biomech_32
+  - first:
+      213: -7529048700529789690
+    second: ships_biomech_33
+  - first:
+      213: 8928415830834017425
+    second: ships_biomech_34
+  - first:
+      213: -6457264300521363150
+    second: ships_biomech_35
+  - first:
+      213: 7926259194454093501
+    second: ships_biomech_36
+  - first:
+      213: -4431013476608093222
+    second: ships_biomech_37
+  - first:
+      213: 3999603507033078862
+    second: ships_biomech_38
+  - first:
+      213: -72913355415300106
+    second: ships_biomech_39
+  - first:
+      213: 4781125890056394737
+    second: ships_biomech_40
+  - first:
+      213: 538139104402132553
+    second: ships_biomech_41
+  - first:
+      213: 2219353912360625605
+    second: ships_biomech_42
+  - first:
+      213: 4870372844795792211
+    second: ships_biomech_43
+  - first:
+      213: 4823855104145280526
+    second: ships_biomech_44
+  - first:
+      213: -5970261275291382043
+    second: ships_biomech_45
+  - first:
+      213: 4394460455941678901
+    second: ships_biomech_46
+  - first:
+      213: 1371883637753705472
+    second: ships_biomech_47
+  - first:
+      213: -4920661250291276846
+    second: ships_biomech_48
+  - first:
+      213: -1403078871358063964
+    second: ships_biomech_49
+  - first:
+      213: 631553194182598557
+    second: ships_biomech_50
+  - first:
+      213: 8137425493975220879
+    second: ships_biomech_51
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ships_biomech_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0d52165bef4010800000000000000
+      internalID: 1175416782674792310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397c18f0b18264e00800000000000000
+      internalID: 1028553661590128531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 531
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22f0117dc7b15c00800000000000000
+      internalID: 887692694561813034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 528
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1aae7021e7f1570800000000000000
+      internalID: 8439602842622927309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 531
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a16086d7ba43eaa0800000000000000
+      internalID: -6132976114110275166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 528
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e512e2cb520e33660800000000000000
+      internalID: 7364476268356444510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbf544afda979380800000000000000
+      internalID: -8964526247933248518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a45289cb4755a350800000000000000
+      internalID: 6027319659320202402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 355
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd336c56a4add4c0800000000000000
+      internalID: -4261068638001087019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 352
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e99fac46ee9770800000000000000
+      internalID: 8619579953871709399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 355
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f3e4ee51455b230800000000000000
+      internalID: 3653919125850177435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 352
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181172a82686c2710800000000000000
+      internalID: 1669824334281511297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e43d92e50751ba0800000000000000
+      internalID: -6118860968982000071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a09d4be928ae20800000000000000
+      internalID: 3361983212427452470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b088d1d89477c280800000000000000
+      internalID: -9023115128709021517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 176
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef64c23f3ea8b90800000000000000
+      internalID: -7238722817485242676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 179
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025f317dd0de7720800000000000000
+      internalID: 2845941664051057152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 176
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd47818d47dbbbe70800000000000000
+      internalID: 9132100978963150043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b44cee411db020800000000000000
+      internalID: 2359060810481053774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e91ca9a410b160800000000000000
+      internalID: 7039148936549492094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75c57c6137e6c30800000000000000
+      internalID: 4354544431385040852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679acc53a95a6b860800000000000000
+      internalID: 7545400307451996534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f78ccdd083a8c0800000000000000
+      internalID: -3989203154812537132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7783cd89946579760800000000000000
+      internalID: 7464529781487057015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c2585c380a94770800000000000000
+      internalID: 8595577851628301315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 32
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab90fc5ad6d7e640800000000000000
+      internalID: 5109288535625604005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 32
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbde0df2d94be8d0800000000000000
+      internalID: -2816075971452544078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81014c6c430159080800000000000000
+      internalID: -9181414446465806312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14092571e4ccfc00800000000000000
+      internalID: 935839295198528538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8999d1f988c939c0800000000000000
+      internalID: -3946903103619884660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5589c4fab91e51b00800000000000000
+      internalID: 798792567705344085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8432324ebf3e092b0800000000000000
+      internalID: -5579709267308240056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 208
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63dcca88ea10afa0800000000000000
+      internalID: -5791599534735043729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 208
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6053e44f812738790800000000000000
+      internalID: -7529048700529789690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f5d3b4ea18eb70800000000000000
+      internalID: 8928415830834017425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239ec9aa4503366a0800000000000000
+      internalID: -6457264300521363150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe2c130ebabffd60800000000000000
+      internalID: 7926259194454093501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35ec338b0e182c0800000000000000
+      internalID: -4431013476608093222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 384
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cfc17e232718730800000000000000
+      internalID: 3999603507033078862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 384
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d61780b5fcfef0800000000000000
+      internalID: -72913355415300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 384
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f71c3f5aa8f95240800000000000000
+      internalID: 4781125890056394737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec2ad0aaad77700800000000000000
+      internalID: 538139104402132553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5e029ef9abcce10800000000000000
+      internalID: 2219353912360625605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 432
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b03c94c4a079340800000000000000
+      internalID: 4870372844795792211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec88ac8a6c1f240800000000000000
+      internalID: 4823855104145280526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 608
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee8cfd700f552da0800000000000000
+      internalID: -5970261275291382043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 560
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a7e770824cfc30800000000000000
+      internalID: 4394460455941678901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 560
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004fa7566e8e90310800000000000000
+      internalID: 1371883637753705472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_48
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 560
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3eb54e9ac46bbb0800000000000000
+      internalID: -4920661250291276846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aab8d84333478ce0800000000000000
+      internalID: -1403078871358063964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 608
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f5404b84ab3c800800000000000000
+      internalID: 631553194182598557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_biomech_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 608
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c9927f51fde070800000000000000
+      internalID: 8137425493975220879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ships_biomech_20: 4354544431385040852
+      ships_biomech_24: 8595577851628301315
+      ships_biomech_44: 4823855104145280526
+      ships_biomech_30: 798792567705344085
+      ships_biomech_41: 538139104402132553
+      ships_biomech_49: -1403078871358063964
+      ships_biomech_25: 5109288535625604005
+      ships_biomech_14: -9023115128709021517
+      ships_biomech_48: -4920661250291276846
+      ships_biomech_45: -5970261275291382043
+      ships_biomech_15: -7238722817485242676
+      ships_biomech_17: 9132100978963150043
+      ships_biomech_28: 935839295198528538
+      ships_biomech_21: 7545400307451996534
+      ships_biomech_46: 4394460455941678901
+      ships_biomech_35: -6457264300521363150
+      ships_biomech_13: 3361983212427452470
+      ships_biomech_16: 2845941664051057152
+      ships_biomech_12: -6118860968982000071
+      ships_biomech_19: 7039148936549492094
+      ships_biomech_43: 4870372844795792211
+      ships_biomech_32: -5791599534735043729
+      ships_biomech_23: 7464529781487057015
+      ships_biomech_47: 1371883637753705472
+      ships_biomech_40: 4781125890056394737
+      ships_biomech_51: 8137425493975220879
+      ships_biomech_33: -7529048700529789690
+      ships_biomech_36: 7926259194454093501
+      ships_biomech_7: 6027319659320202402
+      ships_biomech_22: -3989203154812537132
+      ships_biomech_9: 8619579953871709399
+      ships_biomech_50: 631553194182598557
+      ships_biomech_2: 887692694561813034
+      ships_biomech_38: 3999603507033078862
+      ships_biomech_18: 2359060810481053774
+      ships_biomech_6: -8964526247933248518
+      ships_biomech_10: 3653919125850177435
+      ships_biomech_0: 1175416782674792310
+      ships_biomech_1: 1028553661590128531
+      ships_biomech_5: 7364476268356444510
+      ships_biomech_3: 8439602842622927309
+      ships_biomech_11: 1669824334281511297
+      ships_biomech_27: -9181414446465806312
+      ships_biomech_37: -4431013476608093222
+      ships_biomech_31: -5579709267308240056
+      ships_biomech_29: -3946903103619884660
+      ships_biomech_34: 8928415830834017425
+      ships_biomech_8: -4261068638001087019
+      ships_biomech_42: 2219353912360625605
+      ships_biomech_4: -6132976114110275166
+      ships_biomech_26: -2816075971452544078
+      ships_biomech_39: -72913355415300106
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
